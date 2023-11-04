@@ -17,3 +17,8 @@ A további gombokkal az ablak jobb oldali részében meg lehet jeleníteni a szo
 
 ### Továbbfejlesztési lehetőségek
 Az alkalmazás GUI része számtalan módon továbbfejleszthető. Például lehessen a csúcsoknak tetszőleges címkét adni, vagy az élekhez súlyt rendelni. Továbbá a gráfmodellben látható, hogy az képes legrövidebb utat számolni, vagy akár csúcsot törölni. Ezeket a GUI szándékosan nem kínálja azért, hogy a meglévő kódok kiegészítésével vagy módosításával gyakorolni lehessen a grafikus interfész fejlesztését úgy, hogy van már egy megjelenítésre képes alap. Természetesen a modell is bővíthető úgy, hogy további algoritmusok kezelésére vagy műveletek végzésére legyen képes. Nyilván ilyekor a grafikus interfészt is bővíteni kell.
+
+### Minta képernyőképek
+A képen látható gráfot hoztuk létre és kiírattuk a szomszédsági viszonyokat, valamint a szélességi és mélységi bejárást a 0 csúcstól. A mélységi bejárást egy másik csúcstól kezdve is lekértük.
+
+![Gráf rajzoló](graph_gui_screenshot_github.jpg)
